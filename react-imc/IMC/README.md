@@ -19,4 +19,4 @@ Certifique-se de ter o **Node.js** instalado na sua máquina.
 
 1. Clone o repositório:
    ```bash
-   git clone no link do meu perfil
+   git clone no (https://github.com/GuilhermeSegattoo/front-end.git)
